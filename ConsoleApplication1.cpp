@@ -9,7 +9,7 @@
 
 using namespace std;
 
-// Задание 
+// Задание 1
 void task1() {
     const int size = 10;
     int* arr = new int[size] { 5, 2, 8, 1, 9, 3, 7, 4, 6, 0 };
